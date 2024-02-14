@@ -20,7 +20,7 @@
         <aside id="sidebar" class="js-sidebar">
             <div class="h-100">
                 <div class="sidebar-logo">
-                    <a href="#">
+                    <a href="index.html">
                         <img src="assets/images/logo-white.png" style="height:48px;" alt="logo-sidebar">
                     </a>
                 </div>
